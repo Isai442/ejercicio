@@ -8,6 +8,7 @@ public class ejemplo1 {
         int segundoNumero;
         int tercerNumero ;
         int cuartoNumero;
+	int quintoNumero;
         long resultado;
 //inicializamos la clase Scanner
 Scanner scan = new Scanner(System.in);
