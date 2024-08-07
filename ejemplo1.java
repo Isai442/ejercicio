@@ -12,6 +12,7 @@ public class ejemplo1 {
 //inicializamos la clase Scanner
 Scanner scan = new Scanner(System.in);
 System.out.println("programa asociado a github");
+System.out.println("segunda prueba git");
 System.out.println("xxx");
 System.out.println("Ingrese el primer numero");
 primerNumero =  scan.nextInt();
@@ -21,6 +22,7 @@ System.out.println("Ingrese el primer numero");
 tercerNumero =  scan.nextInt();
 System.out.println("Ingrese el segundo numero");
 cuartoNumero =  scan.nextInt();
+
 resultado=(primerNumero+segundoNumero+tercerNumero+cuartoNumero)/4;
 System.out.println("El promedio de las 4 notas es:  "+resultado);
 
